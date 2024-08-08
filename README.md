@@ -1,2 +1,2 @@
-# AULA_01
-Introdução ao JavaScript
+# LP_T1
+JavaScript
